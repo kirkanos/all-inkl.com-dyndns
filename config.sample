@@ -1,0 +1,4 @@
+USER=dyn007
+PASSWORD=verySecurePassword
+# command or sript, which returns your IP
+CMD='curl -s https://ipv6.icanhazip.com/'
